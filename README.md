@@ -1,1 +1,1 @@
-# My tmux config file
+# My random rc files
